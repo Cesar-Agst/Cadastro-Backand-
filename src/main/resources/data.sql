@@ -1,0 +1,2 @@
+INSERT INTO TB_HERO (id,nome,idade,email,genero,curso) VALUES ('Cesar Augusto',19,'cesar@gmail.com','Masculino','ADS');
+INSERT INTO TB_HERO (id,nome,idade,email,genero,curso) VALUES ('João Carlos',45,'joaocarlos@gmail.com','Masculino','ADS');
